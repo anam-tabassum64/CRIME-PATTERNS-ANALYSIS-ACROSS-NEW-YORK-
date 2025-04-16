@@ -37,7 +37,7 @@ This project is a comprehensive **Excel-based dashboard** that visualizes over 3
 - Filters by county, agency, and crime type
 
 ## 📷 Screenshots
-![Dashboard Sample](path/to/your/dashboard_image.png)
+![Uploading Screenshot 2025-04-12 153946.png…]()
 
 ## 🚀 How to Use
 1. Clone/download the repository
